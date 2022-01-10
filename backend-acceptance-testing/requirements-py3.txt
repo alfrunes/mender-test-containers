@@ -1,4 +1,4 @@
-bravado==9.2.2
+bravado==11.0.3
 crypto
 cryptography==36.0.1
 flask
