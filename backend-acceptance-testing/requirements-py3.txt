@@ -3,7 +3,7 @@ crypto
 cryptography==36.0.1
 flask
 jsonschema<4.0
-minio==5.0.6
+minio==7.1.7
 pluggy==1.0.0
 pycrypto
 pymongo==3.12.1
